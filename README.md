@@ -1,6 +1,8 @@
-# InterceptErrors
+# Intercept Errors
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+
+The purpose of this repo is to demonstrate how you can intercept errors in an Angular app and show the error to the users. You only have to implement this in one spot and it will watch every HTTP call you make for errors and respond to them how you determine.
 
 ## Development server
 
